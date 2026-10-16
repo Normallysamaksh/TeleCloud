@@ -106,7 +106,7 @@ You'll need Python 3.12, Node.js/npm, a Supabase project, a Telegram bot and pri
 ### 1. Clone and install
 
 ```bash
-git clone https://github.com/x4ddy/tele-cloud.git
+git clone https://github.com/Normallysamaksh/TeleCloud.git
 cd tele-cloud
 python -m venv .venv
 ```
